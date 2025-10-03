@@ -31,3 +31,7 @@ El código realiza las siguientes funciones:
   - `numpy`
   - `matplotlib`
   - `scipy`
+ 
+## Código en acción
+![giftFourier](https://github.com/user-attachments/assets/39edcc1a-1295-4744-a260-6427737b2c1e)
+
